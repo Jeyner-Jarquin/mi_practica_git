@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Temporales de Python
+__pycache__/
+*.pyc
+
+# Base de datos local
+*.sqlite3
+
+# Carpeta de configuración de VS Code
+.vscode/
